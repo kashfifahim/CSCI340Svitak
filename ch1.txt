@@ -1,1 +1,78 @@
 Week 1 Assignment 1.1, 1.2, 1.3 due by 9/4/24
+
+An operating system is software that manages a computer's hardware.
+
+
+It is important to first understand the organization and architecture of computer hardware.
+
+
+Because an opearting system is large and complex, it must be created piece by piece.
+
+
+A computer system can be divided roughly into 4 components: hardware, operating system, application programs, and a user.
+
+
+The hardware--the central processing unit, the memory, and the IO devices--provides the basic computing resources for the system.
+
+
+The application programs define the ways in which these resources are used to solve user' computing problems.
+
+
+The operating system controls the hardware and coordinates its use among the various application programs for the various users.
+
+
+You can also view a computer system as consisting of hardware, software, and data.
+
+
+To understand more fully the operating system's role, we next explore operating systems from two viewpoints: that of the user and ththat of the system.
+
+
+The user's view of the computer varies according to the interface being used.
+
+
+Some computers have little or no user view.
+
+
+From the computer's point of view, the operating system is the program most intimately involved wiht the hardware.
+
+
+A slightly different view of an operating system emphasizes the need to control the various I/O devices and user programs.  
+
+
+By now you can probably see that the term operating system covers many roles and functions.
+
+
+To explain this diversity, we can turn to the history of computers.
+
+
+In general, we have no completely adequate definition of an operating system.
+
+
+In addition, we have no universally accepted definition of what is part of the operating system.
+
+
+A common definition is that the operating system is hte one program running at all times on the computer--called the kernel.
+
+
+Along with the kernel, there are two other types of programs: system programs, which are associated with the operating system but are not necessarily part of the kernel, and the application programs, which include all programs not associated with the opearting system.
+
+
+There are also awkward bits of code that defy categorization.  
+
+
+Further complicating the definition of an opearting system is the difference between common understanding and reality.
+
+
+A reasonable summary is that the opearting system is inclusive of the kernel that is loaded at boot time, any device drivers and kernel functions loaded at run time, and any system programs related to the opearting system.  
+
+
+The matter of what constitutes an opearting system became increasingly important as personal computers became more widespread and operating systems grew increasingly sophisticated.
+
+
+If we look at operating systems for mobile devices we see that once again the number of features constituting the operating system is increasing.  
+
+
+In summary, for our purpose, the operating system includes the always-running kernel, middleware frameworks that ease application development and provide features, and system programs that aid in managing the system while it is running.
+
+
+
