@@ -75,4 +75,69 @@ If we look at operating systems for mobile devices we see that once again the nu
 In summary, for our purpose, the operating system includes the always-running kernel, middleware frameworks that ease application development and provide features, and system programs that aid in managing the system while it is running.
 
 
+1.2 Computer-system organization
+
+A modern general-purpose computer system consists of one or more CPUs and a number of device controllers connected through a common bus that provides access between components and shared memory.
+
+
+Typically, operating systems have a device driver for each device controller.
+
+
+Interrupts alert the CPU to events that require attention.
+
+
+Hardware may trigger an interrupt at any time by sending a signal to the CPU, usually by way of the system bus.
+
+
+When the CPU is interrupted, it stops what it is doing and immediately transfers execution to a fixed location.
+
+
+Interrupts are an important part of a computer architecture.  
+
+
+The interrupt architecture must also save the state information of whatever was interrupted, so that it can restore this information after servicing the interrupt.
+
+
+The basic interrupt mechanism works as follows.
+
+
+In modern operating system we need more sophisticated interrupt-handling features.
+
+
+Most CPUs have two interrupt request lines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
