@@ -14,3 +14,11 @@ Second Generation - Eaerly 1960s
 3. beginnings of multiprogramming
 4. beginnings of multiprocessor systems as well
 
+Third Generation - Mid 1960s to mid 1970s
+1. Multimode
+    batch processing
+    time sharing
+    real time
+    
+2. A thick layer of software
+3. Difficult to learn adn use
