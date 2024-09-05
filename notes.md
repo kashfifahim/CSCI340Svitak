@@ -11,3 +11,6 @@ First Generation - 1950s
 Second Generation - Eaerly 1960s
 1. integrated circuits
 2. interrupts
+3. beginnings of multiprogramming
+4. beginnings of multiprocessor systems as well
+
